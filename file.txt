@@ -2,4 +2,7 @@ this is file added from master
 
 and we are going to merge it with dev branch 
 
-this is different contentr added at 4th line to create conflict
+
+
+
+resolve conflict and dd your custom code and save it
